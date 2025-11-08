@@ -1,0 +1,6 @@
+@LoginSimple_HostAddress = http://localhost:5072
+
+GET {{LoginSimple_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

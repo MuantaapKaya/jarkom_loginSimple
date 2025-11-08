@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVplfo/KC50=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LOQ\\LoginSimple\\LoginSimple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\system.directoryservices.protocols\\9.0.10\\system.directoryservices.protocols.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
